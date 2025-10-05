@@ -1,4 +1,4 @@
-# Web3 Wallet Cypher
+# Mock Web3 Wallet 
 
 A simple Web3 wallet application built with Next.js (frontend) and FastAPI (backend) for managing Ethereum wallets, checking balances, and sending transactions on the Sepolia testnet.
 
