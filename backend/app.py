@@ -75,8 +75,6 @@ async def create_transaction(transaction: TransactionCreate, db: Session = Depen
     db.add(db_transaction)
     db.commit()
     db.refresh(db_transaction)
-
-    # Send notification
     wallet = db.query(Wallet).filter(Wallet.address == transaction.wallet_address).first()
     if wallet and wallet.email:
         subject = "Transaction Notification"
