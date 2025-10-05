@@ -1,6 +1,8 @@
 # Mock Web3 Wallet 
 
 A simple Web3 wallet application built with Next.js (frontend) and FastAPI (backend) for managing Ethereum wallets, checking balances, and sending transactions on the Sepolia testnet.
+<img width="1911" height="724" alt="image" src="https://github.com/user-attachments/assets/eb8a4e27-12ae-4688-8f9c-d46b6bed1994" />
+
 
 ## Features
 
