@@ -2,6 +2,10 @@
 
 A simple Web3 wallet application built with Next.js (frontend) and FastAPI (backend) for managing Ethereum wallets, checking balances, and sending transactions on the Sepolia testnet.
 <img width="1911" height="724" alt="image" src="https://github.com/user-attachments/assets/eb8a4e27-12ae-4688-8f9c-d46b6bed1994" />
+<img width="1746" height="532" alt="image" src="https://github.com/user-attachments/assets/78d8223b-1d65-4dfc-881f-bf5f35f471df" /> 
+<img width="1905" height="575" alt="image" src="https://github.com/user-attachments/assets/40935f8f-f04b-47fb-ad48-599cc076cecf" />
+<img width="1768" height="926" alt="image" src="https://github.com/user-attachments/assets/191e39c1-e844-40a9-93b7-839edf736e94" />
+<img width="1543" height="1029" alt="image" src="https://github.com/user-attachments/assets/0c7c9a43-e3b0-465f-aa17-9c4b171d5395" />
 
 
 ## Features
