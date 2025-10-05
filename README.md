@@ -94,6 +94,6 @@ A simple Web3 wallet application built with Next.js (frontend) and FastAPI (back
 - Update `DATABASE_URL` in `backend/models.py`.
 - Update Infura API key in `backend/models.py` and `frontend/src/utils/walletUtils.ts`.
 
-## API Endpoints
+## Email Notification
 
 - Change email and app password in email notification function
